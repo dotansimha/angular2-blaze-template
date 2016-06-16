@@ -1,4 +1,4 @@
-<a href="http://angular-meteor.com/"><img src="http://angular-meteor.com/images/logo-large.png" width="60" height="60" /></a>  [urigo:angular-blaze-template](http://angular-meteor.com/api/blaze-template)
+<a href="http://angular-meteor.com/"><img src="http://angular-meteor.com/images/logo-large.png" width="60" height="60" /></a>  [angular2-blaze-template](http://angular-meteor.com)
 ======================================================
 
 ### &lt;blaze-template&gt;
