@@ -28,22 +28,22 @@ var BlazeTemplate = (function () {
             blaze_1.Blaze.remove(this.viewHandler);
         }
     };
-    __decorate([
-        core_1.Input(), 
-        __metadata('design:type', String)
-    ], BlazeTemplate.prototype, "name", void 0);
-    __decorate([
-        core_1.Input(), 
-        __metadata('design:type', Object)
-    ], BlazeTemplate.prototype, "context", void 0);
-    BlazeTemplate = __decorate([
-        core_1.Component({
-            selector: 'blaze-template',
-            template: ''
-        }),
-        core_1.Injectable(), 
-        __metadata('design:paramtypes', [core_1.ElementRef])
-    ], BlazeTemplate);
     return BlazeTemplate;
 }());
+__decorate([
+    core_1.Input(),
+    __metadata("design:type", String)
+], BlazeTemplate.prototype, "name", void 0);
+__decorate([
+    core_1.Input(),
+    __metadata("design:type", Object)
+], BlazeTemplate.prototype, "context", void 0);
+BlazeTemplate = __decorate([
+    core_1.Component({
+        selector: 'blaze-template',
+        template: ''
+    }),
+    core_1.Injectable(),
+    __metadata("design:paramtypes", [core_1.ElementRef])
+], BlazeTemplate);
 exports.BlazeTemplate = BlazeTemplate;

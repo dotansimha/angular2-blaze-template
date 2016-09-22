@@ -12,9 +12,12 @@
   },
   "devDependencies": {
     "@angular/common": "2.0.0",
+    "@angular/core": "2.0.0",
     "@angular/compiler": "2.0.0",
     "@angular/platform-browser": "2.0.0",
     "@angular/platform-browser-dynamic": "2.0.0",
+    "rxjs": "5.0.0-beta.12",
+    "zone.js": "0.6.21",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
     "gulp-git": "^1.7.0",
